@@ -1,17 +1,4 @@
-# ChatGPT_system_prompt
-[! [Inhaltsverzeichnis bei PR-Zusammenführung generieren] (https://github.com/LouisShark/chatgpt_system_prompt/actions/workflows/build-toc.yaml/badge.svg?branch=main)] (https://github.com/LouisShark/chatgpt_system_prompt/actions/workflows/build-toc.yaml)
-[! [GitHub-Lizenz] (https://img.shields.io/github/license/LouisShark/chatgpt_system_prompt)] (https://github.com/LouisShark/chatgpt_system_prompt/blob/main/LICENSE)
-! [GitHub-Forks] (https://img.shields.io/github/forks/LouisShark/chatgpt_system_prompt)
-[! [Folgen Sie Twitter] [Twitter-Bild]] [twitter-url]
 
-[Twitter-Bild]: https://img.shields.io/twitter/follow/LouisShark
-[twitter-url]: https://twitter.com/shark_louis
-
-Dieses Repository ist eine Sammlung verschiedener Systemaufforderungen für ChatGPT und [benutzerdefinierte GPTs](https://openai.com/blog/introducing-gpts), die einen erheblichen pädagogischen Wert beim Erlernen des Schreibens von Systemaufforderungen und des Erstellens benutzerdefinierter GPTs bieten.
-
-Für einen schnellen Start gehen Sie zu [TOC.md](./TOC.md), um die spezifische GPT- oder Systemeingabeaufforderung zu finden, die Sie benötigen.
-
-Weitere Themen:
 
 - [Wie erhalte ich eine Systemaufforderung?] (#how zum Abrufen der Systemaufforderung)
 - [Wie bekomme ich Wissensdateien?] (#how-zur-get-knowledge-files)
@@ -22,7 +9,6 @@ Weitere Themen:
 - [Beitrag](#contribution)
 
 
-<img src="bg.png" width="600px" />
 
 ## So erhalten Sie die Systemaufforderung
 
